@@ -1,1 +1,2 @@
-def calc
+def calc():
+  return 0
